@@ -210,7 +210,7 @@ void DeBruijnGraph::EulerianPath() {
 		//		}
 		//	}
 		//}
-		for (int m = 1; m < last->clip.length(); m++) {
+		for (int m = 1; m < last-> clip.length(); m++) {
 			singleGenome.push_back(last->clip[m]);
 		}
 		resGenome.push_back(singleGenome);
