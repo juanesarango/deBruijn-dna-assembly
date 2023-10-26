@@ -7,7 +7,7 @@ This tools allows to align DNA short sequences by creating deBrujin graph.
 Download the repo:
 
 ```bash
-git clone https://github.com/TianyunZ/deBruijn-dna-assembly
+git clone https://github.com/juanesarango/deBruijn-dna-assembly
 cd deBruijn-dna-assembly
 ```
 
